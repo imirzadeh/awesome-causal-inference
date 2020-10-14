@@ -1,4 +1,4 @@
-# awesome-causal-inference
+# Awesome Causal Inference
 A curated list of awesome Causal Inference resources
 
 ## Table of Contents
@@ -7,11 +7,7 @@ A curated list of awesome Causal Inference resources
 
 * **[Courses](#courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
-
-* **[Researchers](#researchers)**  
-
-* **[Websites](#websites)**  
+* **[Videos and Lectures](#videos-and-lectures)**    
 
 * **[Tools](#tools)**  
 
