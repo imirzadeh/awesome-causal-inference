@@ -40,11 +40,11 @@ A curated list of awesome Causal Inference resources
 
 ### Videos and Lectures
 1. [Lectures on Causality: 4 Parts](https://www.youtube.com/watch?v=zvrcyqcN9Wo) by Jonas Peters
-2. [Towards Causal Reinforcement Learning (CRL) - Part I](https://slideslive.com/38930490/towards-causal-reinforcement-learning-crl-part-i?ref=speaker-22075-latest) By Elias Bareinboim
-3. [Towards Causal Reinforcement Learning (CRL) - Part II](https://slideslive.com/38930491/towards-causal-reinforcement-learning-part-ii?ref=speaker-22075-latest) By Elias Bareinboim
+2. [Towards Causal Reinforcement Learning (CRL) - ICML'20 - Part I](https://slideslive.com/38930490/towards-causal-reinforcement-learning-crl-part-i?ref=speaker-22075-latest) By Elias Bareinboim
+3. [Towards Causal Reinforcement Learning (CRL) - ICML'20 - Part II](https://slideslive.com/38930491/towards-causal-reinforcement-learning-part-ii?ref=speaker-22075-latest) By Elias Bareinboim
 4. [On the Causal Foundations of AI](https://www.youtube.com/watch?v=fNuMHDrh6AY&t=31s) By Elias Bareinboim
 5. [Judea Pearl: Causal Reasoning, Counterfactuals, and the Path to AGI | Lex Fridman Podcast #56](https://www.youtube.com/watch?v=pEBI0vF45ic) By Judea Pearl and Lex Fridman
-
+6. [NeurIPS 2018 Workshop on Causal Learning](https://www.youtube.com/playlist?list=PLJscN9YDD1bu1dCKuXSV1qYmicx3g9t7A)
 
 ### Tools
 1. [DoWhy | Making causal inference easy (Python)](https://github.com/microsoft/dowhy)
@@ -52,4 +52,3 @@ A curated list of awesome Causal Inference resources
 3. [Causal ML: A Package for Uplift Modeling and Causal Inference with ML (Python)](https://github.com/uber/causalml)
 4. [CausalNex: A toolkit for causal reasoning with Bayesian Networks (Python)](https://github.com/quantumblacklabs/causalnex)
 5. [pgmpy: Python Library for learning (Structure and Parameter) and inference (Statistical and Causal) in Bayesian Networks](https://github.com/pgmpy/pgmpy)
-
