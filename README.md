@@ -1,5 +1,6 @@
 # Awesome Causal Inference
-A curated list of awesome Causal Inference resources
+A curated list of awesome Causal Inference resources.   
+The goal of this list is to serve a starting point for getting familiar with causality.
 
 ## Table of Contents
 
