@@ -45,6 +45,7 @@ The goal of this list is to serve a starting point for getting familiar with cau
 4. [On the Causal Foundations of AI](https://www.youtube.com/watch?v=fNuMHDrh6AY&t=31s) By Elias Bareinboim
 5. [Judea Pearl: Causal Reasoning, Counterfactuals, and the Path to AGI | Lex Fridman Podcast #56](https://www.youtube.com/watch?v=pEBI0vF45ic) By Judea Pearl and Lex Fridman
 6. [NeurIPS 2018 Workshop on Causal Learning](https://www.youtube.com/playlist?list=PLJscN9YDD1bu1dCKuXSV1qYmicx3g9t7A)
+7. [Causal Inference Bootcamp](https://mattmasten.github.io/bootcamp/) by Matt Masten
 
 ---
 
