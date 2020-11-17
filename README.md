@@ -23,7 +23,8 @@ The goal of this list is to serve a starting point for getting familiar with cau
 5.  [Counterfactuals and Causal Inference: Methods and Principles for Social Research](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167) by Stephen L. Morgan, Christopher Winship
 6.  [Causal Inference Book](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) by Hernán MA, Robins JM **FREE download**
 7.  [Causality: Models, Reasoning and Inference](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/) by Judea Pearl
-8.  [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884/) by Guido W. Imbens and Donald B. Rubin 
+8.  [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884/) by Guido W. Imbens and Donald B. Rubin
+9.  [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham **FREE download**
 
 ---
 
