@@ -25,6 +25,7 @@ The goal of this list is to serve a starting point for getting familiar with cau
 7.  [Causality: Models, Reasoning and Inference](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/) by Judea Pearl
 8.  [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884/) by Guido W. Imbens and Donald B. Rubin
 9.  [Causal Inference: The Mixtape](https://www.scunning.com/mixtape.html) by Scott Cunningham **FREE download**
+10.  [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science) by Aleix Ruiz de Villa
 
 ---
 
